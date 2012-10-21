@@ -1,0 +1,1 @@
+tell application "Skype"	set myMood to "SET PROFILE MOOD_TEXT Ready"	set status to "SET USERSTATUS ONLINE"	send command status script name "Scripted Pomodoro"	send command myMood script name "Scripted Pomodoro"end telltell application "Mail"	activateend tell
