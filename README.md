@@ -16,4 +16,12 @@ sudo ./protlak.sh play
 
 ## Warning
 
-This script is provided as-is, without no warranty. It works on my computer!
+This script is provided as-is, with no warranty. It works on my computer!
+
+## Acknowledgements
+
+This script is written in duct-type-programming style, bringing together various scripts found on internet. 
+Updating the hosts file and general structure of the script is taken from https://github.com/leftnode/get-shit-done . 
+AppleScripts that manipulate running apps are copied from http://www.jirifabian.net/wordpress/?p=374 .
+Idea of bringing up local HTTP server that shows helpful message every time you try to access blocked site is inspired
+by @jurahu.
